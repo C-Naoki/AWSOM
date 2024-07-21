@@ -4,4 +4,4 @@ This is a Python implementation of AWSOM@VLDB'03 for my personal use. Please vis
 🚧 Under construction
 
 ## Reference
-Spiros Papadimitriou, Anthony Brockwell, and Christos Faloutsos. Adaptive, Hands-Off Stream Mining. In Proceedings of the 29th International Conference on Very Large Data Bases, Berlin, Germany, September 9 - 12, 2005. ACM, 560–571.
+Spiros Papadimitriou, Anthony Brockwell, and Christos Faloutsos. Adaptive, Hands-Off Stream Mining. In Proceedings of the 29th International Conference on Very Large Data Bases, Berlin, Germany, September 9 - 12, 2003. ACM, 560–571.
